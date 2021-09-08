@@ -61,7 +61,14 @@ func getRandomJoke() error {
 	if err != nil {
 		return err
 	}
-	fmt.Println(getStringFromJSON(dataJSON))
+
+	joke, err := getStringFromJSON(dataJSON)
+	if err != nil {
+		return err
+	}
+
+	fmt.Println(joke)
+
 	return nil
 }
 
