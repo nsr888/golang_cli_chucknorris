@@ -1,0 +1,6 @@
+output:
+  format: json
+linters:
+  enable-all: true
+  disable:
+    - forbidigo
