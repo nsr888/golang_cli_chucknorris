@@ -1,3 +1,4 @@
+[![codebeat badge](https://codebeat.co/badges/e57d8a4f-0e62-4d0c-89c7-02707ac7b652)](https://codebeat.co/projects/github-com-nsr888-golang_cli_chucknorris-main)
 ![Go Report](https://goreportcard.com/badge/github.com/nsr888/golang_cli_chucknorris)
 ![Repository Top Language](https://img.shields.io/github/languages/top/nsr888/golang_cli_chucknorris)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/nsr888/golang_cli_chucknorris)
