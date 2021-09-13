@@ -1,3 +1,10 @@
+![Go Report](https://goreportcard.com/badge/github.com/nsr888/golang_cli_chucknorris)
+![Repository Top Language](https://img.shields.io/github/languages/top/nsr888/golang_cli_chucknorris)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/nsr888/golang_cli_chucknorris)
+![Github Repository Size](https://img.shields.io/github/repo-size/nsr888/golang_cli_chucknorris)
+![Lines of code](https://img.shields.io/tokei/lines/github/nsr888/golang_cli_chucknorris)
+![GitHub last commit](https://img.shields.io/github/last-commit/nsr888/golang_cli_chucknorris)
+
 # Golang CLI-приложение для работы с https://api.chucknorris.io/
 
 Необходимо реализовать CLI-приложение для работы с https://api.chucknorris.io/. Приложение должно уметь: печатать на экран случайную шутку; выгружать по n случайных уникальных шуток ( n задается пользователем, дефолтное значение 5) для каждой из существующих категорий и сохранять их в текстовые файлы - по одному на каждую из категорий.
