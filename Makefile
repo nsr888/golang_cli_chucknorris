@@ -15,3 +15,9 @@ run: build
 clean:
 	go clean
 	rm ${BINARY_NAME}
+
+lint:
+	gofumpt -w -s .
+	golangci-lint run --fix
+
+.PHONY: all build test clean lint
