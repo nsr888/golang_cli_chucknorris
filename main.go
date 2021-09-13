@@ -12,7 +12,7 @@ import (
 )
 
 
-// structure for joke value for response from api.chucknorris.io.
+// Joke is struct for response from api.chucknorris.io.
 type Joke struct {
 	Value string `json:"value"`
 }
