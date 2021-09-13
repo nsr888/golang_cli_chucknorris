@@ -72,7 +72,7 @@ func getRandomJoke() error {
 	return nil
 }
 
-// get available categories from API
+// get available categories from API.
 func getCategories() ([]string, error) {
 	var arr []string
 

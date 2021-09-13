@@ -47,4 +47,3 @@ func TestSaveDump(t *testing.T) {
 		t.Fatalf(`getRandomJoke() = %v, nil`, err)
 	}
 }
-
