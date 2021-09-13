@@ -11,7 +11,6 @@ import (
 	"time"
 )
 
-
 // Joke is struct for response from api.chucknorris.io.
 type Joke struct {
 	Value string `json:"value"`
