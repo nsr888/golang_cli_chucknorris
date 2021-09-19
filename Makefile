@@ -1,7 +1,7 @@
 BINARY_NAME=joker
-SRC=main.go
+SRC=./cmd/main.go
  
-all: build test
+all: build
 .PHONY: all
  
 build:
@@ -9,7 +9,7 @@ build:
 .PHONY: build
  
 test:
-	go test
+	go test -tags testing ./...
 .PHONY: test
  
 run: build

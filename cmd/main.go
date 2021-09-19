@@ -120,6 +120,7 @@ func saveDump(n int) error {
 		}
 		f.Close()
 	}
+
 	return nil
 }
 
