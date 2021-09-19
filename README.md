@@ -23,4 +23,3 @@ animal.txt career.txt celebrity.txt ...
 $ cat animal.txt
 Chuck Norris once rode a bull, and nine months later it had a calf. Chuck Norris does not own a house. He walks into random houses and people move
 ```
-<img width="594" alt="Снимок экрана 2021-09-13 в 11 32 55" src="https://user-images.githubusercontent.com/12528718/133051087-bdd92b95-e183-4f6b-8c0b-715d11722634.png">
